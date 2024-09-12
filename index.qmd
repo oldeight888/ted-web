@@ -1,0 +1,11 @@
+---
+title: "ted-web"
+---
+
+Hi, may name is Ted Tao. I am a university studnet.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1+1
+```
